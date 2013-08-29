@@ -1,0 +1,16 @@
+*.py[co]
+*.o
+*.sw[po]
+*~
+.DS_Store
+*.log
+*.tmp
+.idea
+tags
+.#*
+*.db
+logs/
+.zcache/
+config.py
+check.jpg
+*.pid
